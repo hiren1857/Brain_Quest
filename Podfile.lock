@@ -1,0 +1,28 @@
+PODS:
+  - Google-Mobile-Ads-SDK (12.5.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleUserMessagingPlatform (3.0.0)
+  - ProgressHUD (14.1.1)
+  - SkeletonView (1.30.4)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - ProgressHUD
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - ProgressHUD
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 6df9aadcee32bce0ff05bcad56ef2c88a4a5e82b
+  GoogleUserMessagingPlatform: f8d0cdad3ca835406755d0a69aa634f00e76d576
+  ProgressHUD: abb9136ae23c85204236828562cb9a8ec98efb44
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+
+PODFILE CHECKSUM: bbf290a6858c11228d15c4b1ea01a3e8d1232fce
+
+COCOAPODS: 1.16.2
